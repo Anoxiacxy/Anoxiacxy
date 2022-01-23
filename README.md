@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Anoxiacxy/Anoxiacxy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,12 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hey, anoxiacxy here! :wave: [![Codeforces Rating](https://cfrating.ihcr.top/?user=crazy_cloud&style=flat-square)](https://codeforces.com/profile/crazy_cloud)
+## Hey, Anoxiacxy here! :wave:
 
-I am Xueyang Chen, a student of ACM class at SJTU
+I am Xueyang Chen, a student of ACM class at SJTU. 
 
--   :hammer_and_pick: C++/Pascal/Markdown/LaTeX, a little bit Python3/Go/Java/Verilog
--   :pencil2: Windows 11 / Arch Linux / WSL / Sublime Text 3 / JetBrains / VS Code
+-   :hammer_and_pick: C++ / Java / Python / LaTeX / HTML
+-   :computer: MacOS / Ubuntu / Windows / WSL
+-   :pencil2: VS Code / Typora / Notion
 
 ---
 
