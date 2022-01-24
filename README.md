@@ -33,6 +33,9 @@ I am Xueyang Chen, a student of ACM class at SJTU. Welcone to my Github!
 #### :bar_chart: Weekly development breakdown
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 ---
