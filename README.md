@@ -23,7 +23,9 @@ I am Xueyang Chen, a student of ACM class at SJTU. Welcone to my Github!
 
 ---
 
+<!--
 #### :sparkles: My followers
+-->
 
 <!--START_SECTION:top-followers-->
 <!--END_SECTION:top-followers-->
