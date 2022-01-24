@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ## Hey, Anoxiacxy here! :wave:
 
-I am Xueyang Chen, a student of ACM class at SJTU. 
+I am Xueyang Chen, a student of ACM class at SJTU. Welcone to my Github!
 
 -   :hammer_and_pick: C++ / Java / Python / LaTeX / HTML
 -   :computer: MacOS / Ubuntu / Windows / WSL
