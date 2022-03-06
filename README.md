@@ -37,9 +37,10 @@ I am Xueyang Chen, a student of ACM class at SJTU. Welcone to my Github!
 <!--START_SECTION:waka-->
 
 ```text
-C++        44 mins         ████████████▓░░░░░░░░░░░░   50.50 %
-XML        38 mins         ██████████▓░░░░░░░░░░░░░░   43.24 %
-Other      5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.08 %
+XML        1 hr 6 mins     ███████████████▒░░░░░░░░░   61.68 %
+C++        27 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.59 %
+Text       8 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 %
+Other      5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.94 %
 ```
 
 <!--END_SECTION:waka-->
