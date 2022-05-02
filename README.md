@@ -37,7 +37,7 @@ I am Xueyang Chen, a student of ACM class at SJTU. Welcone to my Github!
 <!--START_SECTION:waka-->
 
 ```text
-Other      6 hrs 57 mins   ██████████████████░░░░░░░   72.10 %
+Other      8 hrs 40 mins   ███████████████████░░░░░░   76.27 %
 ```
 
 <!--END_SECTION:waka-->
