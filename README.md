@@ -45,3 +45,7 @@ Other            10 mins         ▒░░░░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ---
+
+#### My Followers
+<!--START_SECTION:top-followers-->
+<!--END_SECTION:top-followers-->
