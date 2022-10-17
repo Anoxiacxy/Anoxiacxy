@@ -37,12 +37,12 @@ I am Xueyang Chen, a student of ACM class at SJTU. Welcone to my Github!
 <!--START_SECTION:waka-->
 
 ```text
-Python           17 hrs 44 mins  █████████████████████▓░░░   87.25 %
-YAML             49 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 %
-Markdown         35 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.93 %
-Text             33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.78 %
-Bash             26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 %
-Shell Script     6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
+Python           9 hrs 52 mins   ███████████████████████░░   92.09 %
+Text             19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.02 %
+Bash             17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.73 %
+YAML             6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
+GitIgnore file   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
+Markdown         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
 ```
 
 <!--END_SECTION:waka-->
