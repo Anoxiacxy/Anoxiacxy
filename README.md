@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=anoxiacxy&show_icons=true&theme=transparent" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anoxiacxy&theme=transparent&layout=compact" />
 
 ### Hey, Anoxiacxy here! 🎉🎉🎉
 
@@ -22,11 +23,3 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning [Toefl](https://www.ets.org/toefl.html)
 - 📙 [Artificial Intelligence A Modern Approach](https://pan.baidu.com/s/1RgumK1V2HklsmF7r48sUDg?pwd=cjm8)
 - ⚡ Fun fact: Link & Zelda
-
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anoxiacxy&theme=transparent&repo=compiler-mxstar" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anoxiacxy&theme=transparent&layout=compact" />
-</a>
