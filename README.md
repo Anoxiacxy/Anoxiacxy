@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 -->
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=anoxiacxy&show_icons=true&theme=transparent" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anoxiacxy&theme=transparent&layout=compact" />
 
 ### Hey, Anoxiacxy here! 🎉🎉🎉
 
