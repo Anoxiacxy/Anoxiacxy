@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=anoxiacxy&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
-## Hey, Anoxiacxy here! 🎉🎉🎉
+### Hey, Anoxiacxy here! 🎉🎉🎉
 
 - 🏡 Living at Wuhan, China
 - 🔭 I’m currently working on a new game!
 - 🌱 I’m currently learning [Toefl](https://www.ets.org/toefl.html)
-- 📙 [Artificial Intelligence A Modern Approach (4th Edition)](https://pan.baidu.com/s/1RgumK1V2HklsmF7r48sUDg?pwd=cjm8)
+- 📙 [Artificial Intelligence A Modern Approach](https://pan.baidu.com/s/1RgumK1V2HklsmF7r48sUDg?pwd=cjm8)
 - 🧐 Try to find it out.
