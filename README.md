@@ -2,7 +2,7 @@
 **Anoxiacxy/Anoxiacxy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+- 🏗️ Working at @Kyligence
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -12,38 +12,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
-## Hey, Anoxiacxy here! :wave:
+<!--img align="right" src="https://github-readme-stats.vercel.app/api?username=elkan1788&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" /-->
 
-I am Xueyang Chen, a student of ACM class at SJTU. Welcone to my Github!
+### Hello, World! 
 
--   :hammer_and_pick: C++ / Java / Python / LaTeX / HTML
--   :computer: MacOS / Ubuntu / Windows / WSL
--   :pencil2: VS Code / Typora / Notion
+## Hey, Anoxiacxy here! 🎉🎉🎉
 
-
-
-<!--
-#### :sparkles: My followers
--->
-
-<!--START_SECTION:top-followers-->
-<!--END_SECTION:top-followers-->
-
----
-
-#### :bar_chart: Weekly development breakdown
-
-<!--START_SECTION:waka-->
-
-```text
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-
----
-
-#### My Followers
-<!--START_SECTION:top-followers-->
-<!--END_SECTION:top-followers-->
+- 🏡 Living at Wuhan, China
+- 🔭 I’m currently working on a new game!
+- 🌱 I’m currently learning [Toefl](https://www.ets.org/toefl.html)
+- 📙 [Artificial Intelligence A Modern Approach (4th Edition)](https://pan.baidu.com/s/1RgumK1V2HklsmF7r48sUDg?pwd=cjm8)
+- 🧐 Try to find it out.
