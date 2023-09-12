@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 
 - 🏡 Living at Wuhan, China
 - 🔭 I’m currently working on a new game!
-- 🌱 I’m currently learning [Toefl](https://www.ets.org/toefl.html)
+- 🌱 I’m currently learning [Rust](https://www.rust-lang.org/learn)
 - 📙 [Artificial Intelligence A Modern Approach](https://pan.baidu.com/s/1RgumK1V2HklsmF7r48sUDg?pwd=cjm8)
 - ⚡ Fun fact: Link & Zelda
