@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 
 ### Hey, Anoxiacxy here! 🎉🎉🎉
 
-- 🏡 Living at Wuhan, China
-- 🔭 I’m currently working on a new game!
-- 🌱 I’m currently learning [Rust](https://www.rust-lang.org/learn)
-- 📙 [Artificial Intelligence A Modern Approach](https://pan.baidu.com/s/1RgumK1V2HklsmF7r48sUDg?pwd=cjm8)
+- 🏡 Living in Shanghai, China  
+- 🔭 I’m currently working on a new game!  
+- 🌟 Skilled in [Rust](https://www.rust-lang.org/learn) programming  
+- 📙 [Artificial Intelligence A Modern Approach](https://pan.baidu.com/s/1RgumK1V2HklsmF7r48sUDg?pwd=cjm8)  
 - ⚡ Fun fact: Link & Zelda
